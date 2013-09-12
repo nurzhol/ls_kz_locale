@@ -9,6 +9,8 @@
  *
  *   Official site: www.livestreet.ru
  *   Contact e-mail: rus.engine@gmail.com
+ *   Kazkakh language file - translated by Nurzhol Tabigat
+ *   mail to: nurzhol.t@gmail.com
  *
  *   GNU General Public License, version 2:
  *   http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
